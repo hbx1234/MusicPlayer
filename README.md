@@ -20,3 +20,9 @@ How to Use
 Clone or download the repository:
 Open the project folder and double-click the index.html file to launch it in your browser.
 Use the controls to play/pause music, navigate between songs, adjust the volume, and seek through the audio.
+
+Songs Included
+Birthday Song by Susan and Amy
+Birthday Time by Bobtown
+Free Happy Birthday by Mark Humble
+
